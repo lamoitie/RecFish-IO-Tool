@@ -8,7 +8,7 @@
 % 3. Merge sectors in the input direction
 % 4. Merge sectors in the output direction
 %
-% Author: Qilei Zhao，Weiwei Fang, Yaya Song
+% Author: Qilei Zhao，Weiwei Fang
 % Date: 2025-03-25
 
 %% Clear workspace and command window
