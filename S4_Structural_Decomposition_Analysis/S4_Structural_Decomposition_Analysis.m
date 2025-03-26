@@ -8,7 +8,7 @@
 % 4. Production structure changes (Leontief inverse)
 % 5. Final demand structure changes
 %
-% Author: Qilei Zhao, Weiwei Fang
+% Author: Qilei Zhao, Yaya Song
 % Date: 2024-03-25
 
 %% Clear workspace and command window
